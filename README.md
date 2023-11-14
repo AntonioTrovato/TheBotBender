@@ -1,1 +1,1 @@
-Bender is a telegram bot developed for literature lovers. For more information open the folder "the_bot_bender".
+Thanks to Bender, users can search information about a book, open and read it using Google Play Books, make a list of "books to read", receive everyday news about literature, search for libraries in their cities (using a database provided by the italian ministry of culture) and navigate there using Google Maps.
